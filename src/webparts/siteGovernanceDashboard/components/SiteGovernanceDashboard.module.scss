@@ -1,0 +1,33 @@
+/**
+ * Site Governance Dashboard Styles
+ *
+ * Core stylesheet for the governance dashboard web part.
+ * Uses Fluent UI design tokens where available and provides
+ * responsive layout rules and card-based visual hierarchy.
+ */
+
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.siteGovernanceDashboard {
+  overflow: hidden;
+  color: "[theme:bodyText, default: #323130]";
+  color: var(--bodyText);
+  font-family: 'Segoe UI', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+
+  &.teams {
+    font-family: $ms-font-family-fallbacks;
+  }
+}
+
+.dashboardContainer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px 16px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .dashboardContainer {
+    padding: 12px 8px;
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "site-governance-dashboard-client-side-solution",
+    "id": "c45992b2-5e46-4c08-9a02-73adbb37a9f5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "site-governance-dashboard description"
+      },
+      "longDescription": {
+        "default": "site-governance-dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "site-governance-dashboard Feature",
+        "description": "The feature that activates elements of the site-governance-dashboard solution.",
+        "id": "f4b1b090-72e9-42aa-a086-9c6cf2a31817",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/site-governance-dashboard.sppkg"
+  }
+}

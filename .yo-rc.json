@@ -1,0 +1,23 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "site-governance-dashboard",
+    "useGulp": false,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "SiteGovernanceDashboard",
+    "componentDescription": "SharePoint Site Governance Dashboard - Monitor governance health including ownership, permissions, sharing, and content freshness",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.0",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "site-governance-dashboard",
+    "libraryId": "c45992b2-5e46-4c08-9a02-73adbb37a9f5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "site-governance-dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}

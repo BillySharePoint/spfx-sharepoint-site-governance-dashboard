@@ -133,7 +133,7 @@ src/webparts/siteGovernanceDashboard/
 
 ```bash
 # Clone the repository
-git clone https://github.com/BP-CA/spfx-sharepoint-site-governance-dashboard.git
+git clone https://github.com/BillySharePoint/spfx-sharepoint-site-governance-dashboard.git
 cd spfx-sharepoint-site-governance-dashboard
 
 # Install dependencies
@@ -201,4 +201,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 This project is part of a public portfolio demonstrating expertise in SharePoint Framework development, governance design, and Microsoft 365 solution architecture.
 
-- [GitHub](https://github.com/BP-CA)
+- [GitHub](https://github.com/BillySharePoint)
+
+---
+
+## Related
+
+- Article: [Open Source SPFx SharePoint Site Governance Dashboard](https://www.billyperalta.com/blog/new-open-source-spfx-sharepoint-site-governance-dashboard/?utm_source=github&utm_medium=referral&utm_campaign=spfx_site_governance_dashboard&utm_content=readme_article)
+- Hundreds of sites and unclear owners? See [SharePoint governance consulting](https://www.billyperalta.com/services/sharepoint-governance-consultant/?utm_source=github&utm_medium=referral&utm_campaign=spfx_site_governance_dashboard&utm_content=readme_service_cta).
+- Author: [Billy Peralta](https://www.billyperalta.com/?utm_source=github&utm_medium=referral&utm_campaign=spfx_site_governance_dashboard), SharePoint and Microsoft 365 consultant, Vancouver, BC
